@@ -19,6 +19,9 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.sikuli.script.FindFailed;
+import org.sikuli.script.Pattern;
+import org.sikuli.script.Screen;
 import org.testng.Assert;
 
 import com.relevantcodes.extentreports.ExtentTest;
@@ -824,5 +827,20 @@ public class AppKeywords extends GenericKeywords
 		return Constants.PASS;
 	}
 	
+	public String imageRec() {
+		test.log(LogStatus.INFO,"Click on the image through sikuli");		
+		Screen s=new Screen();
+		Pattern p=new Pattern("C:\\Users\\Sreekanth\\Desktop\\Capture.png");
+		try {
+			s.wait(p,10);
+			s.click(p);
+		} catch (FindFailed e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+		return Constants.PASS;
+	}
 
 }

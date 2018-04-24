@@ -39,6 +39,6 @@ public class LoginVerfication extends BaseTest
 		app.executeKeywords(testName, xls,data);
 		test.log(LogStatus.PASS,"PASS");
 		app.getGenericKeywords().screenShot();
-		app.getGenericKeywords().closeBrowser();
+		//app.getGenericKeywords().closeBrowser();
 	}
 }

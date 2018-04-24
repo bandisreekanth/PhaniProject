@@ -67,5 +67,17 @@
 	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/selenium-java-3.11.0/libs/httpcore-4.4.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/selenium-java-3.11.0/libs/okhttp-3.9.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/selenium-java-3.11.0/libs/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/sikuli-core-1.0.0.jar/sikuli-core-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/sikuli-core-1.0.0.jar/sikuli-api-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/sikuli-core-1.0.0.jar/sikuli-script.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/sikuli-r930-win32/Sikuli-IDE/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/sikuli-r930-win32/Sikuli-IDE/forms-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/sikuli-r930-win32/Sikuli-IDE/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/sikuli-r930-win32/Sikuli-IDE/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/sikuli-r930-win32/Sikuli-IDE/mac_widgets.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/sikuli-r930-win32/Sikuli-IDE/sikuli-ide.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/sikuli-r930-win32/Sikuli-IDE/sikuli-script.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/sikuli-r930-win32/Sikuli-IDE/swing-layout-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sreekanth/Desktop/selenium jars/sikuli-r930-win32/Sikuli-IDE/swingx-core-1.6.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

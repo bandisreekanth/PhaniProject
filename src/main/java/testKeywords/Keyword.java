@@ -213,6 +213,12 @@ public class Keyword {
 				{
 					result=gk.keyboardControl();
 				}
+				
+				else if(keywords.equals("imageRec"))
+				{
+					result=gk.imageRec();
+				}
+
 	
 				else if(keywords.equals("SelectDatabase"))
 				{
